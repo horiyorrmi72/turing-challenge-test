@@ -1,8 +1,3 @@
-// function oddWords(str1, str2) {
-//     return str.split(' ').filter((word, index) => index % 2 !== 0).join(' ');
-// }
-
-// console.log(oddWords(['This is a test'],['this is a normal']));
 function findOddWords(str1, str2){
     let arr1 = str1.split(' ');
     let arr2 = str2.split(' ');
